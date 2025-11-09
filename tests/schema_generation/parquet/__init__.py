@@ -1,0 +1,2 @@
+# Parquet schema generation tests
+

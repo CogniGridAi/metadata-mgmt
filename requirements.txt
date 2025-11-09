@@ -1,0 +1,7 @@
+# Schema Generation Library - Core Dependencies
+# Python 3.8+ required
+
+# Required for parquet schema generation
+# Note: CSV and JSONL generators only use standard library
+pyarrow>=10.0.0
+

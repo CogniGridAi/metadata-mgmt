@@ -1,0 +1,2 @@
+# Common schema generation tests
+
